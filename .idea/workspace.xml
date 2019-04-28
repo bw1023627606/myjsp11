@@ -6,35 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94ace0d6-2eab-4a56-8108-4161ea930467" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myjsp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bw/ebtity/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bw/servlet/DefaultServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/default.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/demo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bw/ebtity/UserEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bw/servlet/DefaultServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/myjsp.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/myjsp/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/myjsp/WEB-INF/classes/META-INF/myjsp.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/myjsp/WEB-INF/classes/com/bw/ebtity/UserEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/myjsp/WEB-INF/classes/com/bw/servlet/DefaultServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/myjsp/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/myjsp/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/myjsp/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/myjsp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/myjsp/default.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/myjsp/demo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/myjsp/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="94ace0d6-2eab-4a56-8108-4161ea930467" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -206,7 +178,7 @@
       <workItem from="1556249561164" duration="1919000" />
       <workItem from="1556251500291" duration="6067000" />
       <workItem from="1556259528417" duration="2154000" />
-      <workItem from="1556411217704" duration="717000" />
+      <workItem from="1556411217704" duration="973000" />
     </task>
     <task id="LOCAL-00001" summary="index页面">
       <created>1556262401567</created>
@@ -215,16 +187,30 @@
       <option name="project" value="LOCAL" />
       <updated>1556262401567</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="myjsp教室">
+      <created>1556411982433</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556411982433</updated>
+    </task>
+    <task id="LOCAL-00003" summary="myjsp教室">
+      <created>1556412126983</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556412126983</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20366000" />
+    <option name="totallyTimeSpent" value="20622000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="28" y="44" width="960" height="1040" extended-state="0" />
+    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2777778" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2777778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -237,10 +223,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49666667" visible="true" weight="0.3296582" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50555557" side_tool="true" weight="0.28114665" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.50333333" side_tool="true" visible="true" weight="0.3296582" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32929516" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -256,7 +242,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="index页面" />
-    <option name="LAST_COMMIT_MESSAGE" value="index页面" />
+    <MESSAGE value="myjsp教室" />
+    <option name="LAST_COMMIT_MESSAGE" value="myjsp教室" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/webapp/aa.jsp" />
